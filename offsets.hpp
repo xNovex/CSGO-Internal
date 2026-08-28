@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-08-28 10:24:59.409420700 UTC
+// 2026-08-28 21:37:38.214808 UTC
 
 #pragma once
 
@@ -10,10 +10,10 @@ namespace cs2_dumper {
     namespace offsets {
         // Module: client.dll
         namespace client_dll {
-            constexpr std::ptrdiff_t dwAutoAccept = 0x23DD1B0;
-            constexpr std::ptrdiff_t dwCSGOInput = 0x23DBC80;
-            constexpr std::ptrdiff_t dwEntityList = 0x2571230;
-            constexpr std::ptrdiff_t dwGameEntitySystem = 0x2571230;
+            constexpr std::ptrdiff_t dwAutoAccept = 0x23DD1A0;
+            constexpr std::ptrdiff_t dwCSGOInput = 0x23DBC70;
+            constexpr std::ptrdiff_t dwEntityList = 0x2571220;
+            constexpr std::ptrdiff_t dwGameEntitySystem = 0x2571220;
             constexpr std::ptrdiff_t dwGameEntitySystem_highestEntityIndex = 0x2090;
             constexpr std::ptrdiff_t dwGameRules = 0x23C5D28;
             constexpr std::ptrdiff_t dwGlobalVars = 0x20AF5F0;
@@ -24,7 +24,7 @@ namespace cs2_dumper {
             constexpr std::ptrdiff_t dwPrediction = 0x23C6170;
             constexpr std::ptrdiff_t dwSensitivity = 0x23C3578;
             constexpr std::ptrdiff_t dwSensitivity_sensitivity = 0x58;
-            constexpr std::ptrdiff_t dwViewAngles = 0x23DC308;
+            constexpr std::ptrdiff_t dwViewAngles = 0x23DC2F8;
             constexpr std::ptrdiff_t dwViewMatrix = 0x23CB830;
             constexpr std::ptrdiff_t dwViewRender = 0x23CB898;
             constexpr std::ptrdiff_t dwWeaponC4 = 0x233EF10;
@@ -40,8 +40,8 @@ namespace cs2_dumper {
             constexpr std::ptrdiff_t dwNetworkGameClient_maxClients = 0x240;
             constexpr std::ptrdiff_t dwNetworkGameClient_serverTickCount = 0x24C;
             constexpr std::ptrdiff_t dwNetworkGameClient_signOnState = 0x230;
-            constexpr std::ptrdiff_t dwWindowHeight = 0x9118DC;
-            constexpr std::ptrdiff_t dwWindowWidth = 0x9118D8;
+            constexpr std::ptrdiff_t dwWindowHeight = 0x9118D4;
+            constexpr std::ptrdiff_t dwWindowWidth = 0x9118D0;
         }
         // Module: inputsystem.dll
         namespace inputsystem_dll {
