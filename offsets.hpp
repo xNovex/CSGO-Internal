@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-09-24 22:24:28.385498800 UTC
+// 2026-09-24 22:32:10.298825700 UTC
 
 #pragma once
 
@@ -10,7 +10,7 @@ namespace cs2_dumper {
     namespace offsets {
         // Module: client.dll
         namespace client_dll {
-            constexpr std::ptrdiff_t dwAutoAccept_v3 = 0x2795630;
+            constexpr std::ptrdiff_t dwAutoAccept = 0x2795630;
             constexpr std::ptrdiff_t dwCSGOInput = 0x2573B40;
             constexpr std::ptrdiff_t dwEntityList = 0x27130E8;
             constexpr std::ptrdiff_t dwGameEntitySystem = 0x27130E8;
